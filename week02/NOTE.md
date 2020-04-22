@@ -28,7 +28,7 @@ Atom Identifier & Literal
         Punctuator
         Template
         Literal
-2 基本类型
+2 类型
     Number
         浮点数精度比较Number.EPSILON
         特例：Math.abs(1.1+2.2-3.3) > Number.EPSILON
@@ -39,3 +39,4 @@ Atom Identifier & Literal
     Null
     Undifined
     Symbol
+    Object
